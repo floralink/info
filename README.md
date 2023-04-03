@@ -1,4 +1,4 @@
-# @floralink/docs
+# @floralink/info
 
 A small wiki about plant occurrence and vegetation plot data.
 Live at: https://flora-link.de/info/
