@@ -6,7 +6,11 @@ title: Software für Vegetationsaufnahmen
 
 ## HITAB 5
 
-Nennenswert ist hier ein sehr altes Programm für DOS: Mit HITAB 5 können Vegetationsaufnahmen eingegeben und exportiert werden. Außerdem unterstützt es die Ausgabe von Zeigerwertspektren (absolute Häufigkeiten im Balkendiagramm) für die ökologischen Zeigerwerte nach Ellenberg, wie sie für Österreich angepasst wurden. Das Programm wird weiterhin für Lehrzwecke angeboten. (Wiedermann 1995)
+Nennenswert ist hier ein sehr altes Programm für DOS: Mit [HITAB 5](https://statedv.boku.ac.at/hitab5/) können Vegetationsaufnahmen eingegeben und exportiert werden. Außerdem unterstützt es die Ausgabe von Zeigerwertspektren (absolute Häufigkeiten im Balkendiagramm) für die ökologischen Zeigerwerte nach Ellenberg, wie sie für Österreich angepasst wurden. Das Programm wird weiterhin für Lehrzwecke angeboten. (Wiedermann 1995)
+
+![](zw_diagr.gif)
+
+> Ausgabe von Zeigerwertspektren in HITAB 5
 
 ## TURBOVEG
 
