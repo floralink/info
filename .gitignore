@@ -2,10 +2,7 @@ node_modules
 dist
 cache
 TODO.md
-
-# exluding (unlicensed) images for now
-*.png
-*.jpg
+.archive
 
 # VitePress
 .vitepress/dist
