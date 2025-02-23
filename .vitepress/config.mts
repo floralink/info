@@ -14,6 +14,9 @@ export default defineConfig({
       { text: "Wissenssammlung", link: "/" },
       { text: "Abfrage in Floralink", link: "https://www.flora-link.de/query" },
     ],
+    search: {
+      provider: "local",
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/floralink/info" },
     ],
