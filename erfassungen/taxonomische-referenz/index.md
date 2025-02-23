@@ -9,8 +9,9 @@ Eine Einheit von Lebewesen, in die Individuen nach festgelegten Kriterien eingeo
 Bei der Kartierung von Pflanzen wird in der Regel Bestimmungsliteratur als Referenz genutzt. Diese Referenzwerke stellen jedoch meist ein eigenes taxonomisches Konzept dar, d.h. es existieren unterschiedliche Sichtweisen, wie weit oder eng ein Taxon angegrenzt ist. Auch Zitate der beschreibenden Autor\*innen schaffen dem keine Abhilfe. Ein Veranschaulichung dieser Problematik am Beispiel des Schaf-Schwingels (Festuca ovina L.) haben Jansen & Dengler (2010) zusammengestellt:
 
 ![Grafik](jansendengler2010.png)
-_Darstellung unterschiedlicher Sichtweisen eines Taxons am Beispiel von Festuca ovina L._
-(aus Jansen & Dengler 2010)
+
+> _Darstellung unterschiedlicher Sichtweisen eines Taxons am Beispiel von Festuca ovina L._
+> (aus Jansen & Dengler 2010)
 
 In manchen taxonomische Referenzdatenbanken werden diese unterschiedlichen Sichtweisen und Konzepte in Beziehung zueinander beschrieben. Sie führen eindeutige (akzeptierte) Taxa und deren Rangordnung. Sie stellen also selbst ein taxonomisches Konzept dar. Teilweise enthalten sie zusätzliche Informationen wie die Quellen der Erstbelege und Bilder von Herbaren. Durch die Referenzierung zu anderen Werken ermöglichen taxonomische Referenzdatenbanken den Vergleich und die Verbindung von Taxondaten jeglicher Art.
 
