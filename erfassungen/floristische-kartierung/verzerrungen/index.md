@@ -1,7 +1,3 @@
----
-title: Verzerrungen
----
-
 # Verzerrungen
 
 Für die Analyse der Daten aus floristischen Kartierungen ist eine fundierte und gesicherte Datengrundlage unabdingbar. Bei der Kartierung können jedoch unterschiedliche Verzerrungen auftreten, die die Vollständigkeit und Qualität der Aufnahmen betreffen.
@@ -22,12 +18,12 @@ Die floristische Kartierung basiert stark auf der Mitarbeit von Ehrenamtlichen (
 
 ## Literaturhinweise
 
-**Archaux**, F.; Gosselin, F.; Bergès, L.; Chevalier, R. (2006): Effects of sampling time, species richness and observer on the exhaustiveness of plant censuses. In: Journal of Vegetation Science 17, 299–306. https://doi.org/10.1111/j.1654-1103.2006.tb02449.x
+**Archaux**, F.; Gosselin, F.; Bergès, L.; Chevalier, R. (2006): Effects of sampling time, species richness and observer on the exhaustiveness of plant censuses. In: Journal of Vegetation Science 17, 299–306. <https://doi.org/10.1111/j.1654-1103.2006.tb02449.x>
 
 **Eichenberg**, D. (2018): Trendanalysen für floristische Daten in Deutschland. Gehalten auf der sMon Workshop Dezember 2018.
 
-**Hill**, M. (2012): Local frequency as a key to interpreting species occurrence data when recording effort is not known. https://doi.org/10.1111/J.2041-210X.2011.00146.X
+**Hill**, M. (2012): Local frequency as a key to interpreting species occurrence data when recording effort is not known. <https://doi.org/10.1111/J.2041-210X.2011.00146.X>
 
 **Scott**, W.A.; Hallam, C.J. (2003): Assessing Species Misidentification Rates through Quality Assurance of Vegetation Monitoring. In: Plant Ecology 165, 101–115.
 
-**Vittoz**, P.; Guisan, A. (2007): How reliable is the monitoring of permanent vegetation plots? A test with multiple observers. In: Journal of Vegetation Science 18, 413–422. https://doi.org/10.1111/j.1654-1103.2007.tb02553.x
+**Vittoz**, P.; Guisan, A. (2007): How reliable is the monitoring of permanent vegetation plots? A test with multiple observers. In: Journal of Vegetation Science 18, 413–422. <https://doi.org/10.1111/j.1654-1103.2007.tb02553.x>

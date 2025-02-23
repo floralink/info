@@ -1,7 +1,3 @@
----
-title: Software für floristische Daten
----
-
 # Software für floristische Daten
 
 ## FlorEin
@@ -22,15 +18,15 @@ Ein weiteres Kartierungsprogramm mit vielfältigen Funktionen ist WinArt. Es wur
 
 ## Literaturhinweise
 
-**Bayernflora** (2020): FlorEin 5.0 [Internetdokument]. Online verfügbar unter: https://wiki.bayernflora.de/w/index.php?title=FlorEin_5.0&oldid=25554 (abgerufen am 11.3.22).
+**Bayernflora** (2020): FlorEin 5.0 [Internetdokument]. Online verfügbar unter: <https://wiki.bayernflora.de/w/index.php?title=FlorEin_5.0&oldid=25554> (abgerufen am 11.3.22).
 
-**Gnüchtel**, Andreas (o. J.): FlorWin. Ein Erfassungsprogramm für floristische und faunistische Kartierungen [Internetdokument]. Online verfügbar unter: http://www.andreas.gnuechtel.com/FlorWin.html (abgerufen am 12.3.22).
+**Gnüchtel**, Andreas (o. J.): FlorWin. Ein Erfassungsprogramm für floristische und faunistische Kartierungen [Internetdokument]. Online verfügbar unter: <http://www.andreas.gnuechtel.com/FlorWin.html> (abgerufen am 12.3.22).
 
-**Landesamt für Umweltschutz Sachsen-Anhalt** (2018): Programmdokumentation WinArt. Pflanzenerfassung Version 7.0 [Internetdokument]. Online verfügbar unter: https://www.jenisoft.de/pflanzen?file=files/seiteninhalte/downloads/Doku_Winart_PF_70.pdf&cid=643
+**Landesamt für Umweltschutz Sachsen-Anhalt** (2018): Programmdokumentation WinArt. Pflanzenerfassung Version 7.0 [Internetdokument]. Online verfügbar unter: <https://www.jenisoft.de/pflanzen?file=files/seiteninhalte/downloads/Doku_Winart_PF_70.pdf&cid=643>
 
-**Recorder 6 Consortium** (2020): Recorder 6 [Internetdokument]. Online verfügbar unter: http://www.recorder6.info/index.html (abgerufen am 11.3.22).
+**Recorder 6 Consortium** (2020): Recorder 6 [Internetdokument]. Online verfügbar unter: <http://www.recorder6.info/index.html> (abgerufen am 11.3.22).
 
-**Recorder D** (o. J.): Das Recorder D-Projekt [Internetdokument]. In: Recorder 6D - Software zur Erfassung von Beobachtungen zu Tieren und Pflanzen. Online verfügbar unter: http://www.recorder-d.de/index.php/das-recorder-d-projekt (abgerufen am 11.3.22).
+**Recorder D** (o. J.): Das Recorder D-Projekt [Internetdokument]. In: Recorder 6D - Software zur Erfassung von Beobachtungen zu Tieren und Pflanzen. Online verfügbar unter: <http://www.recorder-d.de/index.php/das-recorder-d-projekt> (abgerufen am 11.3.22).
 
 **Subal**, W. (1997): Florein, interaktives Programm zur Bearbeitung floristischer Daten. Version 5.0. Benutzerhandbuch. Zentralstelle für die Floristische Kartierung Deutschlands: Bochum, Halle, Regensburg.
 

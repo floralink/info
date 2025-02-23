@@ -1,7 +1,3 @@
----
-title: Taxonomische Referenzdatenbanken
----
-
 # Taxonomische Referenzdatenbanken
 
 ## Weltweit
@@ -22,26 +18,26 @@ Die GermanSL ist eine taxonomische Referenzdatenbank für die Gefäßpflanzen, M
 
 ## Literaturhinweise
 
-**Euro+Med** (o. J.): Euro+Med PlantBase - Preview of the new data portal | Euro+Med-Plantbase [Internetdokument]. In: Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity. Online verfügbar unter: https://europlusmed.org/ (abgerufen am 12.3.22).
+**Euro+Med** (o. J.): Euro+Med PlantBase - Preview of the new data portal | Euro+Med-Plantbase [Internetdokument]. In: Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity. Online verfügbar unter: <https://europlusmed.org/> (abgerufen am 12.3.22).
 
-**Freiberg**, M.; Winter, M.; Gentile, A.; … Wirth, C. (2020): LCVP, The Leipzig catalogue of vascular plants, a new taxonomic reference list for all known vascular plants. In: Scientific Data 7, 416. https://doi.org/10.1038/s41597-020-00702-z
+**Freiberg**, M.; Winter, M.; Gentile, A.; … Wirth, C. (2020): LCVP, The Leipzig catalogue of vascular plants, a new taxonomic reference list for all known vascular plants. In: Scientific Data 7, 416. <https://doi.org/10.1038/s41597-020-00702-z>
 
-**Global Biodiversity Information Facility** (o. J.): What is GBIF? [Internetdokument]. Online verfügbar unter: https://www.gbif.org/what-is-gbif (abgerufen am 7.3.22).
+**Global Biodiversity Information Facility** (o. J.): What is GBIF? [Internetdokument]. Online verfügbar unter: <https://www.gbif.org/what-is-gbif> (abgerufen am 7.3.22).
 
 **Jansen**, F.; Dengler, J. (2008): GermanSL - Eine universelle taxonomische Referenzliste für Vegetationsdatenbanken in Deutschland. In: Tuexenia 28, 239–253.
 
 **Koperski**, M.; Sauer, M.; Braun, W.; Gradstein, S.R. (2000): Referenzliste der Moose Deutschlands. Dokumentation unterschiedlicher taxonomischer Auffassungen, Schriftenreihe für Vegetationskunde. Bundesamt für Naturschutz: Bonn.
 
-**Mucina**, L.; Bültmann, H.; Dierßen, K.; … Tichý, L. (2016): Vegetation of Europe: hierarchical floristic classification system of vascular plant, bryophyte, lichen, and algal communities. In: Applied Vegetation Science 19, 3–264. https://doi.org/10.1111/avsc.12257
+**Mucina**, L.; Bültmann, H.; Dierßen, K.; … Tichý, L. (2016): Vegetation of Europe: hierarchical floristic classification system of vascular plant, bryophyte, lichen, and algal communities. In: Applied Vegetation Science 19, 3–264. <https://doi.org/10.1111/avsc.12257>
 
-**Patterson**, D.; Cooper, J.; Kirk, P.; … Remsen, D. (2010): Names are key to the big new biology. In: Trends in ecology & evolution. https://doi.org/10.1016/j.tree.2010.09.004
+**Patterson**, D.; Cooper, J.; Kirk, P.; … Remsen, D. (2010): Names are key to the big new biology. In: Trends in ecology & evolution. <https://doi.org/10.1016/j.tree.2010.09.004>
 
-**Pyle**, R. (2016): Towards a Global Names Architecture: The future of indexing scientific names. In: ZooKeys 2016, 261–281. https://doi.org/10.3897/zookeys.550.1000
+**Pyle**, R. (2016): Towards a Global Names Architecture: The future of indexing scientific names. In: ZooKeys 2016, 261–281. <https://doi.org/10.3897/zookeys.550.1000>
 
 **Scholz**, P. (2000): Katalog der Flechten und flechtenbewohnenden Pilze Deutschlands, Schriftenreihe für Vegetationskunde: 31. Bundesamt für Naturschutz: Bonn.
 
-**The Plant List** (2013): The Plant List. A working list of all plant species [Internetdokument]. Online verfügbar unter: http://www.theplantlist.org/
+**The Plant List** (2013): The Plant List. A working list of all plant species [Internetdokument]. Online verfügbar unter: <http://www.theplantlist.org/>
 
 **Wisskirchen**, R.; Haeupler, H. (1998): Standardliste der Farn- und Blütenpflanzen Deutschlands. Ulmer: Stuttgart.
 
-**World Flora Online** (o. J.): World Flora Online [Internetdokument]. Online verfügbar unter: http://www.worldfloraonline.org/
+**World Flora Online** (o. J.): World Flora Online [Internetdokument]. Online verfügbar unter: <http://www.worldfloraonline.org/>

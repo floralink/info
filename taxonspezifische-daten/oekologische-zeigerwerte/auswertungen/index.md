@@ -20,14 +20,14 @@ Die ökologischen Zeigerwerte können außerdem für das Erstellen von Species D
 
 ## Literaturhinweise
 
-**Descombes**, P.; Walthert, L.; Baltensweiler, A.; … Zimmermann, N.E. (2020): Spatial modelling of ecological indicator values improves predictions of plant distributions in complex landscapes. In: Ecography 43, 1448–1463. https://doi.org/10.1111/ecog.05117
+**Descombes**, P.; Walthert, L.; Baltensweiler, A.; … Zimmermann, N.E. (2020): Spatial modelling of ecological indicator values improves predictions of plant distributions in complex landscapes. In: Ecography 43, 1448–1463. <https://doi.org/10.1111/ecog.05117>
 
 **Ewald**, J.; Hennekens, S.; Conrad, S.; Wohlgemuth, T. (2013): Räumliche und zeitliche Muster von Ellenberg-Nährstoffzahlen in Wäldern Deutschlands und angrenzender Gebiete – eine Untersuchung auf Grundlage pflanzensoziologischer Datenbanken. In: Tuexenia 33, 93–109.
 
-**Jansen**, F.; Ewald, J.; Zerbe, S. (2011): Ecological preferences of alien plant species in North-Eastern Germany. In: Biological Invasions. https://doi.org/10.1007/s10530-011-9939-4
+**Jansen**, F.; Ewald, J.; Zerbe, S. (2011): Ecological preferences of alien plant species in North-Eastern Germany. In: Biological Invasions. <https://doi.org/10.1007/s10530-011-9939-4>
 
-**Marcenò**, C.; Guarino, R. (2015): A test on Ellenberg indicator values in the Mediterranean evergreen woods (Quercetea ilicis). In: Rendiconti Lincei 26, 345–356. https://doi.org/10.1007/s12210-015-0448-8
+**Marcenò**, C.; Guarino, R. (2015): A test on Ellenberg indicator values in the Mediterranean evergreen woods (Quercetea ilicis). In: Rendiconti Lincei 26, 345–356. <https://doi.org/10.1007/s12210-015-0448-8>
 
-**Robbins**, J.; Matthews, J. (2014): Use of ecological indicator values to investigate successional change in boreal to high-alpine glacier-foreland chronosequences, southern Norway. https://doi.org/10.1177/0959683614544067
+**Robbins**, J.; Matthews, J. (2014): Use of ecological indicator values to investigate successional change in boreal to high-alpine glacier-foreland chronosequences, southern Norway. <https://doi.org/10.1177/0959683614544067>
 
 **Walentowski**, H. (2008): Untersuchung der Schattentoleranz von Baumarten auf Grundlage der Datenbank bayerischer Naturwaldreservate. In: Tuexenia 28, 23–40.

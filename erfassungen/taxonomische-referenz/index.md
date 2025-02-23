@@ -1,7 +1,3 @@
----
-title: Taxonomische Konzepte
----
-
 # Taxonomische Konzepte
 
 Eine Einheit von Lebewesen, in die Individuen nach festgelegten Kriterien eingeordnet werden können, nennt man ein Taxon. Die Lebewesen eines Taxons müssen nicht stammesgeschichtlich näher verwandt sein, eine phylogenetisch korrekte Hierarchie ist jedoch ein Ziel der Taxonomie. Seitdem Carl von Linné die binominale Nomenklatur eingeführt hat, werden Taxa neu benannt, neu beschrieben oder im Umfang neu definiert.
@@ -25,4 +21,4 @@ Für die eigentliche Analyse müssen die Daten weiter vorbereitet werden. Dies b
 
 **Jansen**, F.; Dengler, J. (2008): GermanSL - Eine universelle taxonomische Referenzliste für Vegetationsdatenbanken in Deutschland. In: Tuexenia 28, 239–253.
 
-**Jansen**, F.; Dengler, J. (2010): Plant names in vegetation databases – a neglected source of bias. In: Journal of Vegetation Science 21, 1179–1186. https://doi.org/10.1111/j.1654-1103.2010.01209.x
+**Jansen**, F.; Dengler, J. (2010): Plant names in vegetation databases – a neglected source of bias. In: Journal of Vegetation Science 21, 1179–1186. <https://doi.org/10.1111/j.1654-1103.2010.01209.x>

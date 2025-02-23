@@ -14,8 +14,8 @@ Die Daten der Kartierung wurden und werden zunächst regional gesammelt und schl
 
 ## Literaturhinweise
 
-**Bundesamt für Naturschutz** (o. J.-a): Organisation der Florenkartierung [Internetdokument]. In: FloraWeb. Online verfügbar unter: https://www.floraweb.de/florenkartierung/organisation-der-florenkartierung.html (abgerufen am 8.3.22).
+**Bundesamt für Naturschutz** (o. J.-a): Organisation der Florenkartierung [Internetdokument]. In: FloraWeb. Online verfügbar unter: <https://www.floraweb.de/florenkartierung/organisation-der-florenkartierung.html> (abgerufen am 8.3.22).
 
-**Bundesamt für Naturschutz** (o. J.-b): Methoden der Florenkartierung [Internetdokument]. In: FloraWeb. Online verfügbar unter: https://www.floraweb.de/florenkartierung/methoden-der-florenkartierung.html (abgerufen am 8.3.22).
+**Bundesamt für Naturschutz** (o. J.-b): Methoden der Florenkartierung [Internetdokument]. In: FloraWeb. Online verfügbar unter: <https://www.floraweb.de/florenkartierung/methoden-der-florenkartierung.html> (abgerufen am 8.3.22).
 
-**Bundesamt für Naturschutz** (2020): Florenkartierung in Deutschland [Internetdokument]. Online verfügbar unter: https://web.archive.org/web/20210224041554/https://www.bfn.de/themen/artenschutz/erfassung-und-kartierung/florenkartierung.html (abgerufen am 8.3.22).
+**Bundesamt für Naturschutz** (2020): Florenkartierung in Deutschland [Internetdokument]. Online verfügbar unter: <https://web.archive.org/web/20210224041554/https://www.bfn.de/themen/artenschutz/erfassung-und-kartierung/florenkartierung.html> (abgerufen am 8.3.22).

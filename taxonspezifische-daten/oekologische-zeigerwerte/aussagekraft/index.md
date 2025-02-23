@@ -1,8 +1,3 @@
----
-title: Aussagekraft
-lang: de-DE
----
-
 # Aussagekraft der Zeigerwerte
 
 Grundsätzlich hängt die Aussagekraft der Zeigerwerte von der Qualität der Erfassungsdaten ab, auf die sie angewandt werden. Nachfolgend sollen ein paar Faktoren vorgestellt werden, die bei der Interpretation der Zeigerwerte zu berücksichtigen sind.
@@ -53,32 +48,32 @@ Bei Vegetationsaufnahmen spielt zudem die Größe der Aufnahmefläche eine Rolle
 
 ## Literaturhinweise
 
-**Bartelheimer**, M.; Poschlod, P. (2016): Functional characterizations of Ellenberg indicator values – a review on ecophysiological determinants. In: Functional Ecology 30, 506–516. https://doi.org/10.1111/1365-2435.12531
+**Bartelheimer**, M.; Poschlod, P. (2016): Functional characterizations of Ellenberg indicator values – a review on ecophysiological determinants. In: Functional Ecology 30, 506–516. <https://doi.org/10.1111/1365-2435.12531>
 
-**Carpenter**, W.; Goodenough, A. (2014): How robust are community-based plant bioindicators? Empirical testing of the relationship between Ellenberg values and direct environmental measures in woodland communities. In: Community Ecology 15, 1–11. https://doi.org/10.1556/COMEC.15.2014.1.1
+**Carpenter**, W.; Goodenough, A. (2014): How robust are community-based plant bioindicators? Empirical testing of the relationship between Ellenberg values and direct environmental measures in woodland communities. In: Community Ecology 15, 1–11. <https://doi.org/10.1556/COMEC.15.2014.1.1>
 
 **Chytrý**, M.; Hejcman, M.; Hennekens, S.M.; Schellberg, J. (2009): Changes in Vegetation Types and Ellenberg Indicator Values after 65 Years of Fertilizer Application in the Rengen Grassland Experiment, Germany. In: Applied Vegetation Science 12, 167–176.
 
-**Diekmann**, M. (2003): Species indicator values as an important tool in applied plant ecology – a review. In: Basic and Applied Ecology 4, 493–506. https://doi.org/10.1078/1439-1791-00185
+**Diekmann**, M. (2003): Species indicator values as an important tool in applied plant ecology – a review. In: Basic and Applied Ecology 4, 493–506. <https://doi.org/10.1078/1439-1791-00185>
 
-**Ewald**, J. (2003): The sensitivity of Ellenberg indicator values to the completeness of vegetation relevés. In: Basic and Applied Ecology 4, 507–513. https://doi.org/10.1078/1439-1791-00155
+**Ewald**, J. (2003): The sensitivity of Ellenberg indicator values to the completeness of vegetation relevés. In: Basic and Applied Ecology 4, 507–513. <https://doi.org/10.1078/1439-1791-00155>
 
-**Fanelli**, G.; Pignatti, S.; Testi, A. (2007): An application case of ecological indicator values (Zeigerwerte) calculated with a simple algorithmic approach. In: Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology 141, 15–21. https://doi.org/10.1080/11263500601153685
+**Fanelli**, G.; Pignatti, S.; Testi, A. (2007): An application case of ecological indicator values (Zeigerwerte) calculated with a simple algorithmic approach. In: Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology 141, 15–21. <https://doi.org/10.1080/11263500601153685>
 
-**Hedwall**, P.-O.; Brunet, J.; Diekmann, M. (2019): With Ellenberg indicator values towards the north: Does the indicative power decrease with distance from Central Europe? In: Journal of Biogeography 46, 1041–1053. https://doi.org/10.1111/jbi.13565
+**Hedwall**, P.-O.; Brunet, J.; Diekmann, M. (2019): With Ellenberg indicator values towards the north: Does the indicative power decrease with distance from Central Europe? In: Journal of Biogeography 46, 1041–1053. <https://doi.org/10.1111/jbi.13565>
 
-**Hill**, M.O.; Roy, D.B.; Mountford, J.O.; Bunce, R.G.H. (2000): Extending Ellenberg’s indicator values to a new area: an algorithmic approach. In: Journal of Applied Ecology 37, 3–15. https://doi.org/10.1046/j.1365-2664.2000.00466.x
+**Hill**, M.O.; Roy, D.B.; Mountford, J.O.; Bunce, R.G.H. (2000): Extending Ellenberg’s indicator values to a new area: an algorithmic approach. In: Journal of Applied Ecology 37, 3–15. <https://doi.org/10.1046/j.1365-2664.2000.00466.x>
 
-**Löfgren**, O.; Hall, K.; Schmid, B.C.; Prentice, H.C. (2020): Grasslands ancient and modern: Soil nutrients, habitat age and their relation to Ellenberg N. In: Journal of Vegetation Science 31, 367–379. https://doi.org/10.1111/jvs.12856
+**Löfgren**, O.; Hall, K.; Schmid, B.C.; Prentice, H.C. (2020): Grasslands ancient and modern: Soil nutrients, habitat age and their relation to Ellenberg N. In: Journal of Vegetation Science 31, 367–379. <https://doi.org/10.1111/jvs.12856>
 
-**Otýpková**, Z. (2009): The influence of sample plot size on evaluations with Ellenberg indicator values. In: Biologia 64, 1123. https://doi.org/10.2478/s11756-009-0184-6
+**Otýpková**, Z. (2009): The influence of sample plot size on evaluations with Ellenberg indicator values. In: Biologia 64, 1123. <https://doi.org/10.2478/s11756-009-0184-6>
 
-**Schaffers**, A.P.; Sýkora, K.V. (2000): Reliability of Ellenberg indicator values for moisture, nitrogen and soil reaction: a comparison with field measurements. In: Journal of Vegetation Science 11, 225–244. https://doi.org/10.2307/3236802
+**Schaffers**, A.P.; Sýkora, K.V. (2000): Reliability of Ellenberg indicator values for moisture, nitrogen and soil reaction: a comparison with field measurements. In: Journal of Vegetation Science 11, 225–244. <https://doi.org/10.2307/3236802>
 
-**Szymura**, T.; Szymura, M.; Macioł, A. (2014): Bioindication with Ellenberg’s indicator values: A comparison with measured parameters in Central European oak forests. https://doi.org/10.1016/J.ECOLIND.2014.07.013
+**Szymura**, T.; Szymura, M.; Macioł, A. (2014): Bioindication with Ellenberg’s indicator values: A comparison with measured parameters in Central European oak forests. <https://doi.org/10.1016/J.ECOLIND.2014.07.013>
 
-**Wildi**, O. (2016): Why mean indicator values are not biased. In: Journal of Vegetation Science 27, 40–49. https://doi.org/10.1111/JVS.12336
+**Wildi**, O. (2016): Why mean indicator values are not biased. In: Journal of Vegetation Science 27, 40–49. <https://doi.org/10.1111/JVS.12336>
 
-**Zelený**, D. (2016): Bias in community-weighted mean analysis of plant functional traits and species indicator values. https://doi.org/10.1101/046946
+**Zelený**, D. (2016): Bias in community-weighted mean analysis of plant functional traits and species indicator values. <https://doi.org/10.1101/046946>
 
 **Zelený**, D. (2014): Use of mean Ellenberg indicator values revisited (again) In: Book of Abstracts. Gehalten auf der European Vegetation Survey, 23th International Workshop, Ljubljana.

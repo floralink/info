@@ -18,4 +18,4 @@ Klassifizierungen von Taxa können etwa botanischer, ökologischer oder natursch
 
 ## Literaturhinweise
 
-**Kattge**, J.; Ogle, K.; Bönisch, G.; … Wirth, C. (2011b): A generic structure for plant trait databases. In: Methods in Ecology and Evolution 2, 202–213. https://doi.org/10.1111/j.2041-210X.2010.00067.x
+**Kattge**, J.; Ogle, K.; Bönisch, G.; … Wirth, C. (2011b): A generic structure for plant trait databases. In: Methods in Ecology and Evolution 2, 202–213. <https://doi.org/10.1111/j.2041-210X.2010.00067.x>

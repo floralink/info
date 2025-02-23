@@ -1,7 +1,3 @@
----
-title: Software für Erfassungsdaten
----
-
 # Software für Erfassungsdaten
 
 Für die Eingabe, Verwaltung und Analyse von Erfassungsdaten kommen und kamen einige Programme zum Einsatz. Durch die Verwendung von Software können sich Standards bei der Eingabe und Methodik durchsetzen.
@@ -18,10 +14,10 @@ Viele der deutschen Erfassungsportale nutzen dafür Indicia, eine Sammlung von f
 
 ## Literaturhinweise
 
-**Grenié**, M.; Berti, E.; Carvajal-Quintero, J.; … Winter, M. (2022): Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. In: Methods in Ecology and Evolution 2022. https://doi.org/10.1111/2041-210X.13802
+**Grenié**, M.; Berti, E.; Carvajal-Quintero, J.; … Winter, M. (2022): Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. In: Methods in Ecology and Evolution 2022. <https://doi.org/10.1111/2041-210X.13802>
 
-**Indicia Team** (o. J.): Indicia Manual [Internetdokument]. Online verfügbar unter: https://indicia-docs.readthedocs.io/
+**Indicia Team** (o. J.): Indicia Manual [Internetdokument]. Online verfügbar unter: <https://indicia-docs.readthedocs.io/>
 
-**Jansen**, F.; Dengler, J. (2010): Plant names in vegetation databases – a neglected source of bias. In: Journal of Vegetation Science 21, 1179–1186. https://doi.org/10.1111/j.1654-1103.2010.01209.x
+**Jansen**, F.; Dengler, J. (2010): Plant names in vegetation databases – a neglected source of bias. In: Journal of Vegetation Science 21, 1179–1186. <https://doi.org/10.1111/j.1654-1103.2010.01209.x>
 
-**Karthik**, R. (2014): Species occurrence data [Internetdokument]. In: rOpenSci. Online verfügbar unter: https://ropensci.org/blog/2014/03/17/spocc/ (abgerufen am 15.3.22).
+**Karthik**, R. (2014): Species occurrence data [Internetdokument]. In: rOpenSci. Online verfügbar unter: <https://ropensci.org/blog/2014/03/17/spocc/> (abgerufen am 15.3.22).

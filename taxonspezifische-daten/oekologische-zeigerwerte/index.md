@@ -1,7 +1,3 @@
----
-title: Ellenbergsche Zeigerwerte
----
-
 # Ellenbergsche Zeigerwerte
 
 Die ökologischen Zeigerwerte nach Ellenberg (1974) sind ein Maß für das ökologische Optimum einer Pflanzensippe entlang von sieben hauptsächlichen Umweltgradienten: Licht, Temperatur, Kontinentalität, Feuchte, Reaktion, Nährstoffe und Salz. Eine Skala, die in der Regel von 1 bis 9 reicht und ein „x“ für indifferentes sowie ein „?“ für ungeklärtes Verhalten enthält, beschreibt das Vorkommen im Gefälle eines Umweltfaktors. Die Gefälle wurden unter Berücksichtigung von Messungen (etwa die relative Beleuchtungsstärke für die Lichtzahl) und vorhandenen landschaftsökologischen Klassifizierungen (so die Höhenstufe für die Temperaturzahl und biogeographische Angaben für die Kontinentalitätszahl) in die Skala eingeteilt. Zusätzlich hat Ellenberg die Lebensform (den Pflanzenwuchs) sowie die Blattausdauer klassiert.

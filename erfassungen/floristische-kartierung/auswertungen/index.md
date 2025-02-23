@@ -8,9 +8,9 @@ Im Zusammenhang mit Umweltfaktoren kann nach Ursachen für die Ausprägung von P
 
 ## Literaturhinweise
 
-**Bundesamt für Naturschutz** (2020): Florenkartierung in Deutschland [Internetdokument]. Online verfügbar unter: https://web.archive.org/web/20210224041554/https://www.bfn.de/themen/artenschutz/erfassung-und-kartierung/florenkartierung.html (abgerufen am 8.3.22).
+**Bundesamt für Naturschutz** (2020): Florenkartierung in Deutschland [Internetdokument]. Online verfügbar unter: <https://web.archive.org/web/20210224041554/https://www.bfn.de/themen/artenschutz/erfassung-und-kartierung/florenkartierung.html> (abgerufen am 8.3.22).
 
-**Elith**, J.; Leathwick, J.R. (2009): Species Distribution Models: Ecological Explanation and Prediction Across Space and Time. In: Annual Review of Ecology, Evolution, and Systematics 40, 677–697. https://doi.org/10.1146/annurev.ecolsys.110308.120159
+**Elith**, J.; Leathwick, J.R. (2009): Species Distribution Models: Ecological Explanation and Prediction Across Space and Time. In: Annual Review of Ecology, Evolution, and Systematics 40, 677–697. <https://doi.org/10.1146/annurev.ecolsys.110308.120159>
 
 **Jansen**, F. (2017): Ideen zu Trendanalysen von Pflanzendaten aus Mecklenburg-Vorpommern. Gehalten auf der sMon Workshop 2017.
 

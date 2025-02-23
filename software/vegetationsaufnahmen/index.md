@@ -1,14 +1,10 @@
----
-title: Software für Vegetationsaufnahmen
----
-
 # Software für Vegetationsaufnahmen
 
 ## HITAB 5
 
 Nennenswert ist hier ein sehr altes Programm für DOS: Mit [HITAB 5](https://statedv.boku.ac.at/hitab5/) können Vegetationsaufnahmen eingegeben und exportiert werden. Außerdem unterstützt es die Ausgabe von Zeigerwertspektren (absolute Häufigkeiten im Balkendiagramm) für die ökologischen Zeigerwerte nach Ellenberg, wie sie für Österreich angepasst wurden. Das Programm wird weiterhin für Lehrzwecke angeboten. (Wiedermann 1995)
 
-![](zw_diagr.gif)
+![Ausgabe von Zeigerwertspektren in HITAB 5](zw_diagr.gif)
 
 > Ausgabe von Zeigerwertspektren in HITAB 5
 
@@ -24,8 +20,8 @@ Das Programm JUICE wurde speziell für die Klassifizierung von Vegetationsaufnah
 
 **Hennekens**, S.M. (2019): Turboveg v.3 – A gateway to vegetation databases. In: CAFF Proceedings Report September 2019: Arctic Vegetation Archive and Arctic Vegetation Classification: Proceedings and abstracts from two workshops 13–13.
 
-**Hennekens**, S.M.; Schaminée, J.H.J. (2001): TURBOVEG, a comprehensive data base management system for vegetation data. In: Journal of Vegetation Science 12, 589–591. https://doi.org/10.2307/3237010
+**Hennekens**, S.M.; Schaminée, J.H.J. (2001): TURBOVEG, a comprehensive data base management system for vegetation data. In: Journal of Vegetation Science 12, 589–591. <https://doi.org/10.2307/3237010>
 
-**Tichý**, L. (2002): JUICE, software for vegetation classification. In: Journal of Vegetation Science 13, 451–453. https://doi.org/10.1111/j.1654-1103.2002.tb02069.x
+**Tichý**, L. (2002): JUICE, software for vegetation classification. In: Journal of Vegetation Science 13, 451–453. <https://doi.org/10.1111/j.1654-1103.2002.tb02069.x>
 
 **Wiedermann**, R. (1995): Pflanzensoziologisches Datenmanagement mittels PC-Programm HITAB5 In: Carinthia II, 8. Österreichisches Botanikertreffen: Pörtschach am Wörther See, 1995. Naturwiss. Verein für Kärnten: Klagenfurt.

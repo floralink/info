@@ -1,14 +1,10 @@
----
-title: Datenbanken in der Geobotanik
----
-
 # Datenbanken in der Geobotanik
 
 Die Biodiversitätsinformatik versteht sich als Querschnittsdisziplin, die den Bestand und die Entwicklung biologischer Vielfalt mithilfe von Werkzeugen der Informatik untersucht. Auch in der Geobotanik werden Datenbanken verwendet, um verschiedenartiges Wissen zu speichern und für die digitale Weiterverarbeitung nutzbar zu machen.
 
 ![Datenbanken in der Geobotanik](db-beziehungen.svg)
 
-_Beziehungen unterschiedlicher Datenbanken bei der Analyse mit Erfassungsdaten und taxonspezifischen Daten_
+> _Beziehungen unterschiedlicher Datenbanken bei der Analyse mit Erfassungsdaten und taxonspezifischen Daten_
 
 Zunehmend werden entsprechende Datenbanken über Programmierschnittstellen oder Downloads in elektronischer Form zugänglich gemacht. In der Floristischen Kartierung Mecklenburg-Vorpommern (Flora-MV) sind mehr als 1,2 Millionen Artfunde öffentlich durchsuchbar. Auf globaler Ebene werden Erfassungsdaten (und generell Daten zur Biodiversität) mit offenem Zugang durch die Global Biodiversity Information Facility gebündelt. Alleine für Pflanzen führt sie über 360 Millionen Angaben zu Artvorkommen. Für Vegetationsaufnahmen sind ähnliche Strukturen vorhanden.
 
@@ -45,6 +41,6 @@ Deshalb ist die Definition von Standards unabdinglich. Die Organisation Biodiver
 
 ## Literaturhinweise
 
-**Wieczorek**, J.; Bloom, D.; Guralnick, R.; … Vieglais, D. (2012): Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. In: PLOS ONE 7, e29715. https://doi.org/10.1371/journal.pone.0029715
+**Wieczorek**, J.; Bloom, D.; Guralnick, R.; … Vieglais, D. (2012): Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. In: PLOS ONE 7, e29715. <https://doi.org/10.1371/journal.pone.0029715>
 
-**Wiser**, S.K.; Spencer, N.; De Cáceres, M.; … Peet, R.K. (2011): Veg-X – an exchange standard for plot-based vegetation data. In: Journal of Vegetation Science 22, 598–609. https://doi.org/10.1111/j.1654-1103.2010.01245.x
+**Wiser**, S.K.; Spencer, N.; De Cáceres, M.; … Peet, R.K. (2011): Veg-X – an exchange standard for plot-based vegetation data. In: Journal of Vegetation Science 22, 598–609. <https://doi.org/10.1111/j.1654-1103.2010.01245.x>
