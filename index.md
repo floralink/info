@@ -1,7 +1,3 @@
----
-title: Floristische Kartierung
----
-
 # Floristische Kartierung
 
 Unter floristischer Kartierung (auch Florenkartierung) versteht man „die fortlaufende, flächendeckende und vollständige Erfassung von Vorkommen und Verbreitung aller Arten (Taxa) eines definierten Gebietes“ (Bundesamt für Naturschutz o. J.-a). Meistens bezieht sich die Kartierung auf die Gefäßpflanzen.

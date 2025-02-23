@@ -6,3 +6,7 @@ TODO.md
 # exluding (unlicensed) images for now
 *.png
 *.jpg
+
+# VitePress
+.vitepress/dist
+.vitepress/cache
